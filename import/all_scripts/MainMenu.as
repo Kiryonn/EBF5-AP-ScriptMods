@@ -172,7 +172,7 @@ package
             }
          }
       }
-      
+
       internal function frame1() : *
       {
          stop();
